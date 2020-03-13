@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView2"
+        android:layout_gravity="center_horizontal" >
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bn1"
+            android:id="@+id/bn1"
+            android:onClick="BtnClk" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bn2"
+            android:id="@+id/bn2"
+            android:layout_gravity="center_horizontal"
+            android:onClick="BtnClk" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bn3"
+            android:id="@+id/bn3"
+            android:layout_gravity="center_horizontal"
+            android:onClick="BtnClk" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bn4"
+            android:id="@+id/bn4"
+            android:layout_gravity="center_horizontal"
+            android:nestedScrollingEnabled="false"
+            android:onClick="BtnClk" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bn5"
+            android:id="@+id/bn5"
+            android:layout_gravity="center_horizontal"
+            android:onClick="BtnClk" />
+
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bn6"
+            android:id="@+id/bn6"
+            android:layout_gravity="center_horizontal"
+            android:onClick="BtnClk" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bn7"
+            android:id="@+id/bn7"
+            android:layout_gravity="center_horizontal"
+            android:onClick="BtnClk" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bn8"
+            android:id="@+id/bn8"
+            android:layout_gravity="center_horizontal"
+            android:onClick="BtnClk" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bn9"
+            android:id="@+id/bn9"
+            android:layout_gravity="center_horizontal"
+            android:onClick="BtnClk" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bn10"
+            android:id="@+id/bn10"
+            android:layout_gravity="center_horizontal"
+            android:onClick="BtnClk" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bn11"
+            android:id="@+id/bn11"
+            android:layout_gravity="center_horizontal"
+            android:onClick="BtnClk" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bn12"
+            android:id="@+id/bn12"
+            android:layout_gravity="center_horizontal"
+            android:onClick="BtnClk" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bn13"
+            android:id="@+id/bn13"
+            android:layout_gravity="center_horizontal"
+            android:onClick="BtnClk" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bn14"
+            android:id="@+id/bn14"
+            android:layout_gravity="center_horizontal"
+            android:onClick="BtnClk" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bn15"
+            android:id="@+id/bn15"
+            android:layout_gravity="center_horizontal"
+            android:onClick="BtnClk" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bn16"
+            android:id="@+id/bn16"
+            android:layout_gravity="center_horizontal"
+            android:onClick="BtnClk" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bn17"
+            android:id="@+id/bn17"
+            android:layout_gravity="center_horizontal"
+            android:onClick="BtnClk" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bn18"
+            android:id="@+id/bn18"
+            android:layout_gravity="center_horizontal"
+            android:onClick="BtnClk" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bn19"
+            android:id="@+id/bn19"
+            android:layout_gravity="center_horizontal"
+            android:onClick="BtnClk" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bn20"
+            android:id="@+id/bn20"
+            android:layout_gravity="center_horizontal"
+            android:onClick="BtnClk" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bn21"
+            android:id="@+id/bn21"
+            android:layout_gravity="center_horizontal"
+            android:onClick="BtnClk" />
+    </LinearLayout>
+    </ScrollView>
+</LinearLayout>

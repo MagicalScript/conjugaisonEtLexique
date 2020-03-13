@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PowerConjugaison</string>
+    <string name="title_section1">Conjuguer</string>
+    <string name="title_section2">Lexique</string>
+    <string name="title_section3">Apropose</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="ConjBtn">Conjuguer</string>
+    <string name="bn1">Le verbe et ses composants</string>
+    <string name="bn2">Les catégories de verbes</string>
+    <string name="bn3">Les modes, les voix, les temps</string>
+    <string name="bn4">Le présent de l\'indicatif</string>
+    <string name="bn5">Le futur simple de l\'indicatif</string>
+    <string name="bn6">L\'imparfait de l\'indicatif</string>
+    <string name="bn7">Le passé simple de l\'indicatif</string>
+    <string name="bn8">Les temps composés de l\'indicatif</string>
+    <string name="bn9">L\'impératif</string>
+    <string name="bn10">Le subjonctif</string>
+    <string name="bn11">Le conditionnel</string>
+    <string name="bn12">L\'infinitif et le participe</string>
+    <string name="bn13">Le système des temps dans le discours</string>
+    <string name="bn14">Les systèmes des temps dans le récit</string>
+    <string name="bn15">Les emplois des temps de l\'indicatif</string>
+    <string name="bn16">Les emplois du subjonctif</string>
+    <string name="bn17">Les emplois du conditionnel</string>
+    <string name="bn18">Les emplois de l\'infinitif et du participe</string>
+    <string name="bn19">L\'emploi des voix</string>
+    <string name="bn20">L\'accord du verbe avec le sujet</string>
+    <string name="bn21">L\'accord du participe passé</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="indicative">Indicatif</string>
+    <string name="conditional">Conditionnel</string>
+    <string name="subjunctive">Subjonctif</string>
+    <string name="participle">Participe</string>
+    <string name="present">Présent</string>
+    <string name="imperfect">Imparfait</string>
+    <string name="future">Futur</string>
+    <string name="simplePast">Passé Simple</string>
+    <string name="passeCompose">Passé Composé</string>
+
+</resources>

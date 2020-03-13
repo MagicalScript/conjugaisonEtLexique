@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="app/build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="app/build/generated/source/buildConfig/test/debug"/>
+	<classpathentry kind="src" path="app/build/generated/source/r/debug"/>
+	<classpathentry kind="src" path="app/src/androidTest/java"/>
+	<classpathentry kind="src" path="app/src/main/java"/>
+	<classpathentry kind="lib" path="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes-084c65642c8a368e37db38360862b2701edd800e.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes-8a67f7255d3986c508ba043f653ea19959ab6be3.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/gtranslateapi-1.0-ed385ff2747324e1dc7867fec0db76626d45ac5f.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-cd7ea26807370e6b9e0a8ab5a196af8a48f18604.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/jdom-2f12809ef2198c4d52554d7a3983d7bfb71a11ad.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-c78d1c47c0b524e8a7794a710e76c954cddfbb47.jar"/>
+	<classpathentry kind="lib" path="app/libs/gtranslateapi-1.0.jar"/>
+	<classpathentry kind="lib" path="app/libs/jdom.jar"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="app/build/intermediates/classes/debug"/>
+</classpath>
